@@ -1,10 +1,10 @@
 services:
-  armagan-watcher:
+  armaganoyuncak-watcher:
     build:
       context: .
       network: host
-    image: armagan-watcher:latest
-    container_name: armagan-watcher
+    image: armaganoyuncak-watcher:latest
+    container_name: armaganoyuncak-watcher
     restart: unless-stopped
     network_mode: host
     cpus: 0.5

@@ -10,7 +10,7 @@ All bots are written in **Go** ([`enetx/surf`](https://github.com/enetx/surf) fo
 | --- | --- | --- |
 | [`migros-watcher`](./migros-watcher) | [Migros](https://www.migros.com.tr) ("Tıkla Gel Al" / click & collect) | For each store: select the pick-point, read the product screen status, and if `IN_SALE`, add to cart to read the real stock amount. Scans every store across Turkey. |
 | [`macrocenter-watcher`](./macrocenter-watcher) | [MacroCenter](https://www.macrocenter.com.tr) | Same flow as the Migros bot, against the MacroCenter storefront. |
-| [`armagan-watcher`](./armagan-watcher) | [Armağan Oyuncak](https://www.armaganoyuncak.com.tr) | Parses the product page's schema.org JSON-LD `offers.availability` (`InStock` / `OutOfStock`). |
+| [`armaganoyuncak-watcher`](./armaganoyuncak-watcher) | [Armağan Oyuncak](https://www.armaganoyuncak.com.tr) | Parses the product page's schema.org JSON-LD `offers.availability` (`InStock` / `OutOfStock`). |
 | [`toyzzshop-watcher`](./toyzzshop-watcher) | [Toyzz Shop](https://www.toyzzshop.com) | Reads each product's `virtual_stock` from the public product API. |
 
 ## How it works
@@ -29,7 +29,7 @@ The Migros and MacroCenter bots additionally reset their baseline every day at 0
 Configuration is entirely via environment variables (loaded from a `.env` file by Docker Compose). Copy the example and fill in your own Telegram credentials:
 
 ```bash
-cd migros-watcher        # or macrocenter-watcher / armagan-watcher / toyzzshop-watcher
+cd migros-watcher        # or macrocenter-watcher / armaganoyuncak-watcher / toyzzshop-watcher
 cp .env.example .env
 # edit .env with your bot token and chat id
 ```

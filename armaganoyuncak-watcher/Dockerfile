@@ -2,7 +2,7 @@
 FROM golang:latest AS build
 WORKDIR /src
 COPY main.go .
-RUN go mod init armagan-watcher \
+RUN go mod init armaganoyuncak-watcher \
     && go get github.com/enetx/surf@latest github.com/enetx/g@latest \
     && go mod tidy \
     && CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /watcher .
