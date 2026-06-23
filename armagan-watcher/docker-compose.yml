@@ -1,0 +1,21 @@
+services:
+  armagan-watcher:
+    build:
+      context: .
+      network: host
+    image: armagan-watcher:latest
+    container_name: armagan-watcher
+    restart: unless-stopped
+    network_mode: host
+    cpus: 0.5
+    env_file:
+      - .env
+    environment:
+      CHECK_INTERVAL_SECONDS: "60"
+    volumes:
+      - ./data:/data
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

@@ -1,0 +1,22 @@
+services:
+  migros-watcher:
+    build:
+      context: .
+      network: host
+    image: migros-watcher:latest
+    container_name: migros-watcher
+    restart: unless-stopped
+    network_mode: host
+    cpus: 1.0
+    env_file:
+      - .env
+    environment:
+      CHECK_INTERVAL_SECONDS: "300"
+      WORKERS: "16"
+    volumes:
+      - ./data:/data
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

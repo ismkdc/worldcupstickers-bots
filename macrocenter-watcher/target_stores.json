@@ -1,0 +1,1492 @@
+[
+  {
+    "pickPointId": 2406,
+    "storeId": 30000000008350,
+    "name": "U.MUMCU BLV ADANA MACROCENTER",
+    "town": "Çukurova",
+    "city": "Adana",
+    "address": "Güzelyalı Mah. Uğur Mumcu Bulv. No:10",
+    "lat": 37.048795,
+    "lon": 35.301525
+  },
+  {
+    "pickPointId": 3509,
+    "storeId": 30000000009487,
+    "name": "KAŞMİR ERYAMAN MACROCENTER S",
+    "town": "Etimesgut",
+    "city": "Ankara",
+    "address": "Göksu Mahallesi 5352. Cadde No: 1F-5",
+    "lat": 39.990897,
+    "lon": 32.642446
+  },
+  {
+    "pickPointId": 2353,
+    "storeId": 30000000008296,
+    "name": "MOGAN GÖLBAŞI ANK MACROCENTER",
+    "town": "Gölbaşı",
+    "city": "Ankara",
+    "address": "Karşıyaka Mah. Haymana Bulvarı No: 220A",
+    "lat": 39.781329,
+    "lon": 32.783774
+  },
+  {
+    "pickPointId": 2969,
+    "storeId": 30000000008960,
+    "name": "ALACAATLI ÇAYYOLU MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "PROF.AHMET TANER KIŞLALI MAH.2873.CAD. NO:4/B",
+    "lat": 39.86929,
+    "lon": 32.68409
+  },
+  {
+    "pickPointId": 749,
+    "storeId": 30000000004097,
+    "name": "ARCADİUM ANKARA MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Koru Mah. 2432. Cad. (Eski 8.Cadde) No:192",
+    "lat": 39.882939,
+    "lon": 32.686139
+  },
+  {
+    "pickPointId": 765,
+    "storeId": 30000000006024,
+    "name": "ATAKULE MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Çankaya Mah. Çankaya Cad. Atakukule AVM",
+    "lat": 39.886104,
+    "lon": 32.855853
+  },
+  {
+    "pickPointId": 2578,
+    "storeId": 30000000008664,
+    "name": "B.EVLER 7.CD MACROCENTER S",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Yukarı Bahçelievler Mah. Aşkabat Cad.(Eski 7.Cad.)",
+    "lat": 39.923901,
+    "lon": 32.825894
+  },
+  {
+    "pickPointId": 2621,
+    "storeId": 30000000008703,
+    "name": "BEYSUKENT MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Mutlukent Mah. 2049. Sokak No:12/13-14-15",
+    "lat": 39.892352,
+    "lon": 32.7237389
+  },
+  {
+    "pickPointId": 3913,
+    "storeId": 30000000009383,
+    "name": "BULVAR BEYTEPE MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Beytepe Mahallesi Plevne Caddesi No: 6AG",
+    "lat": 39.850542,
+    "lon": 32.709199
+  },
+  {
+    "pickPointId": 771,
+    "storeId": 30000000006327,
+    "name": "EFFECT MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Oran Mah. Zülfü Tigrel Cad. No:1/A",
+    "lat": 39.845391,
+    "lon": 32.827481
+  },
+  {
+    "pickPointId": 3931,
+    "storeId": 30000000009617,
+    "name": "FİLİSTİN CD ANK MACROCENTER S",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Gaziosmanpaşa Mahallesi Filistin Caddesi No: 4A",
+    "lat": 39.897124,
+    "lon": 32.867213
+  },
+  {
+    "pickPointId": 772,
+    "storeId": 30000000004823,
+    "name": "GOP UĞUR MUMCU MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Büyükesat MAH.Uğur Mumcu CAD NO:62",
+    "lat": 39.893423,
+    "lon": 32.876737
+  },
+  {
+    "pickPointId": 780,
+    "storeId": 30000000005054,
+    "name": "KAVAKLIDERE MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Çankaya Mah.İran Cad.No:8A/2",
+    "lat": 39.899069,
+    "lon": 32.862526
+  },
+  {
+    "pickPointId": 3914,
+    "storeId": 30000000009278,
+    "name": "KORU ALACAATLI MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Alacaatlı Mahallesi 3346. Cadde No: 30",
+    "lat": 39.850655,
+    "lon": 32.683359
+  },
+  {
+    "pickPointId": 785,
+    "storeId": 30000000006328,
+    "name": "KUMRU MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Yıldızevler Mah. 714.Sokak No:6A",
+    "lat": 39.876447,
+    "lon": 32.861178
+  },
+  {
+    "pickPointId": 793,
+    "storeId": 30000000004143,
+    "name": "NEXT LEVEL ANKARA MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Kızılırmak Mah.Dumlupınar Bulv. No 3/C1",
+    "lat": 39.911476,
+    "lon": 32.812771
+  },
+  {
+    "pickPointId": 1893,
+    "storeId": 30000000007182,
+    "name": "NOKTA ANKARA MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Ümit Mah. 2479. Cadde No:2 İç Kapı No:40",
+    "lat": 39.902141,
+    "lon": 32.692488
+  },
+  {
+    "pickPointId": 796,
+    "storeId": 30000000004611,
+    "name": "ONE TOWER ANKARA MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Oran Mahallesi, Kudüs Caddesi No:6/A-14",
+    "lat": 39.849716,
+    "lon": 32.835173
+  },
+  {
+    "pickPointId": 3510,
+    "storeId": 30000000009372,
+    "name": "UNIQUE ÜMİTKÖY MACROCENTER S",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Ümit Mahallesi Doğan Taşdelen Bulvarı No: 18a",
+    "lat": 39.901574,
+    "lon": 32.707726
+  },
+  {
+    "pickPointId": 1687,
+    "storeId": 30000000006940,
+    "name": "VİTRİN MACROCENTER",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Beytepe Mah.5345 Sok.No:42/A-B-C-D",
+    "lat": 39.86466,
+    "lon": 32.710391
+  },
+  {
+    "pickPointId": 3657,
+    "storeId": 30000000009356,
+    "name": "YAŞAMKENT MACROCENTER S",
+    "town": "Çankaya",
+    "city": "Ankara",
+    "address": "Yaşamkent Mahallesi 3263. Cadde No:13-1",
+    "lat": 39.860158,
+    "lon": 32.63604
+  },
+  {
+    "pickPointId": 2575,
+    "storeId": 30000000008691,
+    "name": "DOWNTOWN ALANYA MACROCENTER",
+    "town": "Alanya",
+    "city": "Antalya",
+    "address": "Kızlar Pınarı Mah.Türkmenbaşı Cad No:1-1A-1B",
+    "lat": 36.5498,
+    "lon": 31.9808
+  },
+  {
+    "pickPointId": 2387,
+    "storeId": 30000000008305,
+    "name": "OBA ALANYA MACROCENTER S",
+    "town": "Alanya",
+    "city": "Antalya",
+    "address": "Oba Mah. Fabrika Cad.No:6B/C,6 B/D,6 B/E,6 B/F",
+    "lat": 36.53736,
+    "lon": 32.04468
+  },
+  {
+    "pickPointId": 2990,
+    "storeId": 30000000009216,
+    "name": "KEPTUR DÖŞEMEALTI MACROCENTER",
+    "town": "Döşemealtı",
+    "city": "Antalya",
+    "address": "YEŞİLBAYIR MAH. AKDENİZ BULV.",
+    "lat": 36.95703967,
+    "lon": 30.6241787
+  },
+  {
+    "pickPointId": 2254,
+    "storeId": 30000000008024,
+    "name": "KALKAN KALAMAR ANT MACROCENTER",
+    "town": "Kaş",
+    "city": "Antalya",
+    "address": "Kalkan Mah.Cumhuriyet Cad. Blok Dış Kapı No: 44/1A",
+    "lat": 36.2652,
+    "lon": 29.4076
+  },
+  {
+    "pickPointId": 3424,
+    "storeId": 30000000009248,
+    "name": "KEMER ANTALYA MACROCENTER",
+    "town": "Kemer",
+    "city": "Antalya",
+    "address": "Yeni Mahalle Akdeniz Caddesi A-B Blok No:26-28",
+    "lat": 36.5979,
+    "lon": 30.5526
+  },
+  {
+    "pickPointId": 782,
+    "storeId": 30000000004032,
+    "name": "KONYAALTI MACROCENTER",
+    "town": "Konyaaltı",
+    "city": "Antalya",
+    "address": "Liman Mah.Atatürk Blv.Becla Bileydi Apt.A/Blok",
+    "lat": 36.848082,
+    "lon": 30.611984
+  },
+  {
+    "pickPointId": 2426,
+    "storeId": 30000000008359,
+    "name": "UNCALI MH ANTALYA MACROCENTER",
+    "town": "Konyaaltı",
+    "city": "Antalya",
+    "address": "Uncalı Mah. Gazi Nustafa Kemal Bulv. B1 Blok",
+    "lat": 36.879758,
+    "lon": 30.626342
+  },
+  {
+    "pickPointId": 2255,
+    "storeId": 30000000008000,
+    "name": "MANAVGAT ANTALYA MACROCENTER",
+    "town": "Manavgat",
+    "city": "Antalya",
+    "address": "Sarılar Mah. Antalya Cad. Dış Kapı No:16",
+    "lat": 36.7939,
+    "lon": 31.4135
+  },
+  {
+    "pickPointId": 788,
+    "storeId": 30000000006338,
+    "name": "LARA MACROCENTER",
+    "town": "Muratpaşa",
+    "city": "Antalya",
+    "address": "Şirinyalı Mah. Lara Cad. No:135/A-B-C",
+    "lat": 36.857305,
+    "lon": 30.738774
+  },
+  {
+    "pickPointId": 753,
+    "storeId": 30000000003427,
+    "name": "TERRA CİTY ANTALYA MACROCENTER",
+    "town": "Muratpaşa",
+    "city": "Antalya",
+    "address": "Terra City AVM Fener Mah. Tekelioğlu cad. No: 55",
+    "lat": 36.852643,
+    "lon": 30.756569
+  },
+  {
+    "pickPointId": 2579,
+    "storeId": 30000000008729,
+    "name": "D-MARİN DİDİM MACROCENTER",
+    "town": "Didim",
+    "city": "Aydın",
+    "address": "Çamlık Mah. 5028. Sokak No:5 D-Marin",
+    "lat": 37.34034804,
+    "lon": 27.26060842
+  },
+  {
+    "pickPointId": 4435,
+    "storeId": 30000000009899,
+    "name": "SAHİL KUŞADASI MACROCENTER",
+    "town": "Kuşadası",
+    "city": "Aydın",
+    "address": "KADINLAR DENİZİ MH. KADINLAR DENİZİ CAD.",
+    "lat": 37.849798,
+    "lon": 27.246134
+  },
+  {
+    "pickPointId": 4573,
+    "storeId": 30000000009933,
+    "name": "ALTINOVA MACROCENTER",
+    "town": "Ayvalık",
+    "city": "Balıkesir",
+    "address": "ALTINOVA MAH. 231 SOK.NO:1",
+    "lat": 39.213586,
+    "lon": 26.745831
+  },
+  {
+    "pickPointId": 1681,
+    "storeId": 30000000006928,
+    "name": "AYVALIK MACROCENTER",
+    "town": "Ayvalık",
+    "city": "Balıkesir",
+    "address": "150 Evler Mah Atatürk Blv. No:267 / 7",
+    "lat": 39.332242,
+    "lon": 26.699428
+  },
+  {
+    "pickPointId": 3436,
+    "storeId": 30000000009533,
+    "name": "ALTINOLUK MACROCENTER",
+    "town": "Edremit",
+    "city": "Balıkesir",
+    "address": "ALTINOLUK Mah. TEKÇAM Cad. No: 79",
+    "lat": 39.568687,
+    "lon": 26.7413121
+  },
+  {
+    "pickPointId": 767,
+    "storeId": 30000000005952,
+    "name": "BURSA BALAT MACROCENTER",
+    "town": "Nilüfer",
+    "city": "Bursa",
+    "address": "Balat Mah. Bozkır Sok. No:5/E",
+    "lat": 40.264505,
+    "lon": 28.931812
+  },
+  {
+    "pickPointId": 746,
+    "storeId": 30000000005303,
+    "name": "PODYUMPARK BURSA MACROCENTER",
+    "town": "Nilüfer",
+    "city": "Bursa",
+    "address": "Cumhuriyet Mah. Nilüfer Hatun Cad. No:114 H Blok",
+    "lat": 40.22535112,
+    "lon": 28.97086251
+  },
+  {
+    "pickPointId": 2989,
+    "storeId": 30000000009068,
+    "name": "ÖZLÜCE NİLÜFER MACROCENTER",
+    "town": "Nilüfer",
+    "city": "Bursa",
+    "address": "29 EKİM MAH. UĞUR MUMCU BULV. 29/A-B-C-D",
+    "lat": 40.220629,
+    "lon": 28.912426
+  },
+  {
+    "pickPointId": 2623,
+    "storeId": 30000000008714,
+    "name": "K.PINAR DİYARBAKIR MACROCENTER",
+    "town": "Kayapınar",
+    "city": "Diyarbakır",
+    "address": "Mezopotamya Mah. 75.Yol Fırat Bulv. Kesişimi",
+    "lat": 37.9366204,
+    "lon": 40.1547054
+  },
+  {
+    "pickPointId": 2974,
+    "storeId": 30000000009113,
+    "name": "ESKİŞEHİR MACROCENTER",
+    "town": "Odunpazarı",
+    "city": "Eskişehir",
+    "address": "Osmangazi Mah. Basın Şehitleri Cad. No:174/G",
+    "lat": 39.770348,
+    "lon": 30.484087
+  },
+  {
+    "pickPointId": 2574,
+    "storeId": 30000000008246,
+    "name": "ALLEBEN GAZİANTEP MACROCENTER",
+    "town": "Şehitkamil",
+    "city": "Gaziantep",
+    "address": "15 Temmuz Mah. 148105 Nolu Cadde No:32C",
+    "lat": 37.06212,
+    "lon": 37.31197
+  },
+  {
+    "pickPointId": 1683,
+    "storeId": 30000000006948,
+    "name": "GAZİANTEP MACROCENTER",
+    "town": "Şehitkamil",
+    "city": "Gaziantep",
+    "address": "Abdülkadir Aksu Bulvarı Emek Mah.No:109/E B Blok",
+    "lat": 37.071449,
+    "lon": 37.339753
+  },
+  {
+    "pickPointId": 2975,
+    "storeId": 30000000009173,
+    "name": "MARS KOCAELİ MACROCENTER",
+    "town": "İzmit",
+    "city": "Kocaeli",
+    "address": "Yahyakaptan Mahallesi İzmit Kandira Yolu Caddesi",
+    "lat": 40.7818452,
+    "lon": 29.973824
+  },
+  {
+    "pickPointId": 4413,
+    "storeId": 30000000009878,
+    "name": "PRIME AVM MANİSA MACROCENTER",
+    "town": "Yunusemre",
+    "city": "Manisa",
+    "address": "LALELİ MAHALLESİ ALİ RIZA EFENDİ CADDESİ NO:2 İÇ ",
+    "lat": 38.615597,
+    "lon": 27.397816
+  },
+  {
+    "pickPointId": 811,
+    "storeId": 30000000006635,
+    "name": "MARİNA MERSİN MACROCENTER",
+    "town": "Yenişehir",
+    "city": "Mersin",
+    "address": "Eğriçam Mah. Adnan Menderes Bulv. No:33/F",
+    "lat": 36.770685,
+    "lon": 34.567811
+  },
+  {
+    "pickPointId": 3417,
+    "storeId": 30000000008915,
+    "name": "AKYARLAR BODRUM MACROCENTER S",
+    "town": "Bodrum",
+    "city": "Muğla",
+    "address": "TURGUTREİS MAH. 4157 SOKAK NO:15",
+    "lat": 36.97785,
+    "lon": 27.25749
+  },
+  {
+    "pickPointId": 1891,
+    "storeId": 30000000007114,
+    "name": "BODRUM KÜÇÜKBÜK MACROCENTER",
+    "town": "Bodrum",
+    "city": "Muğla",
+    "address": "Küçükbük Mah. Fevzi Çakmak  Paşa Cad. NO:14/A-14/B",
+    "lat": 37.1398704,
+    "lon": 27.35710881
+  },
+  {
+    "pickPointId": 1887,
+    "storeId": 30000000007122,
+    "name": "BODRUM ÇAMLIK MACROCENTER",
+    "town": "Bodrum",
+    "city": "Muğla",
+    "address": "Kumköy Mah.İrmene Küme Evler Sok.No:114/4",
+    "lat": 37.08358036,
+    "lon": 27.54516911
+  },
+  {
+    "pickPointId": 2219,
+    "storeId": 30000000007819,
+    "name": "BİTEZ MUĞLA MACROCENTER",
+    "town": "Bodrum",
+    "city": "Muğla",
+    "address": "Bitez Mah.Adnan Menderes Cad. No:98-96",
+    "lat": 37.027521,
+    "lon": 27.390727
+  },
+  {
+    "pickPointId": 812,
+    "storeId": 30000000003950,
+    "name": "D-MARİN TURGUTREİS MACROCENTER",
+    "town": "Bodrum",
+    "city": "Muğla",
+    "address": "Turgutreis Mah. Gazi Mustafa Kemal Bulv.No:24/A-41",
+    "lat": 37.003055,
+    "lon": 27.258055
+  },
+  {
+    "pickPointId": 775,
+    "storeId": 30000000006253,
+    "name": "GÜNDOĞAN BODRUM MACROCENTER",
+    "town": "Bodrum",
+    "city": "Muğla",
+    "address": "Şehit Uğur Öztop Cad. No:16/1 Gündoğan Mah",
+    "lat": 37.129616,
+    "lon": 27.343728
+  },
+  {
+    "pickPointId": 792,
+    "storeId": 30000000005914,
+    "name": "MİDTOWN AVM BODRUM MACROCENTER",
+    "town": "Bodrum",
+    "city": "Muğla",
+    "address": "Müskebi Mah. Kongre Sok. No:11",
+    "lat": 37.05780629,
+    "lon": 27.35651197
+  },
+  {
+    "pickPointId": 2622,
+    "storeId": 30000000008705,
+    "name": "TORBA BODRUM MACROCENTER S",
+    "town": "Bodrum",
+    "city": "Muğla",
+    "address": "Torba Mah. Rıza Anter Cad. No:11/28-29-33",
+    "lat": 37.065317,
+    "lon": 27.464175
+  },
+  {
+    "pickPointId": 799,
+    "storeId": 30000000005105,
+    "name": "TÜRKBÜKÜ MACROCENTER",
+    "town": "Bodrum",
+    "city": "Muğla",
+    "address": "Türkbükü Mah. Atatürk Bulv. No:241-1/1",
+    "lat": 37.12483875,
+    "lon": 27.38206499
+  },
+  {
+    "pickPointId": 802,
+    "storeId": 30000000003727,
+    "name": "YALIKAVAK BODRUM MACROCENTER",
+    "town": "Bodrum",
+    "city": "Muğla",
+    "address": "Merkez Mh Tahsildar İbrahim Sk No: 8/A Yalıkavak",
+    "lat": 37.104501,
+    "lon": 27.291804
+  },
+  {
+    "pickPointId": 1809,
+    "storeId": 30000000007113,
+    "name": "YALIKAVAK GERİŞ MACROCENTER S",
+    "town": "Bodrum",
+    "city": "Muğla",
+    "address": "Geriş Mah.Hacı Yeri Cad.No: 5/1",
+    "lat": 37.09584,
+    "lon": 27.26974
+  },
+  {
+    "pickPointId": 865,
+    "storeId": 30000000006765,
+    "name": "YALIKAVAK GÖKÇEBEL MACROCENTER",
+    "town": "Bodrum",
+    "city": "Muğla",
+    "address": "Dirmil Mah. 6689. Sok. No: 1E Adres Yalıkavak",
+    "lat": 37.122953,
+    "lon": 27.319038
+  },
+  {
+    "pickPointId": 803,
+    "storeId": 30000000003944,
+    "name": "YALIKAVAK MARİNA MACROCENTER",
+    "town": "Bodrum",
+    "city": "Muğla",
+    "address": "Yalıkavak Marina Çökertme Cad. No:6",
+    "lat": 37.103127,
+    "lon": 27.287717
+  },
+  {
+    "pickPointId": 2576,
+    "storeId": 30000000008689,
+    "name": "D-MARİN GÖCEK MACROCENTER S",
+    "town": "Fethiye",
+    "city": "Muğla",
+    "address": "Göcek Mah. Port Marina Küme Evler Kapı No:24",
+    "lat": 36.749416,
+    "lon": 28.944796
+  },
+  {
+    "pickPointId": 2768,
+    "storeId": 30000000008916,
+    "name": "FETHİYE MUĞLA MACROCENTER",
+    "town": "Fethiye",
+    "city": "Muğla",
+    "address": "Foça Mah. 1041 Sok. No:2",
+    "lat": 36.6671,
+    "lon": 29.10937
+  },
+  {
+    "pickPointId": 773,
+    "storeId": 30000000004998,
+    "name": "GÖCEK MACROCENTER",
+    "town": "Fethiye",
+    "city": "Muğla",
+    "address": "Cumhuriyet Mah.Turgut Özal Cad.Okaliptus İş Merkez",
+    "lat": 36.75704,
+    "lon": 28.94691
+  },
+  {
+    "pickPointId": 3507,
+    "storeId": 30000000009211,
+    "name": "PASPATUR FETHİYE MACROCENTER S",
+    "town": "Fethiye",
+    "city": "Muğla",
+    "address": "Cumhuriyet Mah., Atatürk (Cmh) Cad.0 No: 4a",
+    "lat": 36.6213785,
+    "lon": 29.1072458
+  },
+  {
+    "pickPointId": 3418,
+    "storeId": 30000000009489,
+    "name": "MARMARİS MARİNA MACROCENTER",
+    "town": "Marmaris",
+    "city": "Muğla",
+    "address": "SARİANA MAH. NETSEL MARİNA İÇİ",
+    "lat": 36.853156,
+    "lon": 28.278245
+  },
+  {
+    "pickPointId": 2625,
+    "storeId": 30000000008816,
+    "name": "MARMARİS MUĞLA MACROCENTER",
+    "town": "Marmaris",
+    "city": "Muğla",
+    "address": "Siteler Mah. 248 Sokak No:5/1-2-3",
+    "lat": 36.8411,
+    "lon": 28.2511
+  },
+  {
+    "pickPointId": 810,
+    "storeId": 30000000004509,
+    "name": "SELİMİYE MACROCENTER S",
+    "town": "Marmaris",
+    "city": "Muğla",
+    "address": "Selimiye Mah.Buruncuk Sokak NO:58/1",
+    "lat": 36.70687743,
+    "lon": 28.0938006
+  },
+  {
+    "pickPointId": 3530,
+    "storeId": 30000000009201,
+    "name": "MENTEŞE MUĞLA MACROCENTER",
+    "town": "Menteşe",
+    "city": "Muğla",
+    "address": "Emirbeyazıt mh. 28. sok. dış kapı no:4A",
+    "lat": 37.1967757,
+    "lon": 28.3688641
+  },
+  {
+    "pickPointId": 2758,
+    "storeId": 30000000008738,
+    "name": "GÜLLÜK MİLAS MACROCENTER S",
+    "town": "Milas",
+    "city": "Muğla",
+    "address": "Güllük Mah. Manastır Cad No:18/1",
+    "lat": 37.24030269,
+    "lon": 27.59676464
+  },
+  {
+    "pickPointId": 2098,
+    "storeId": 30000000007311,
+    "name": "MAYA MİLAS MACROCENTER",
+    "town": "Milas",
+    "city": "Muğla",
+    "address": "Boğaziçi Mah. Yazlık Siteler Sok.",
+    "lat": 37.19578713,
+    "lon": 27.56657376
+  },
+  {
+    "pickPointId": 2866,
+    "storeId": 30000000008680,
+    "name": "SAPANCA MACROCENTER",
+    "town": "Sapanca",
+    "city": "Sakarya",
+    "address": "KIRKPINAR HASANPAŞA MAH.",
+    "lat": 40.69072,
+    "lon": 30.217297
+  },
+  {
+    "pickPointId": 3438,
+    "storeId": 30000000009544,
+    "name": "ATAKUM MACROCENTER",
+    "town": "Atakum",
+    "city": "Samsun",
+    "address": "MİMARSİNAN MAH. ATATÜRK BULV.",
+    "lat": 41.33408047,
+    "lon": 36.28143928
+  },
+  {
+    "pickPointId": 3413,
+    "storeId": 30000000009058,
+    "name": "ÇORLU ÖNERLER MACROCENTER",
+    "town": "Çorlu",
+    "city": "Tekirdağ",
+    "address": "ÖNERLER MAHALLESİ ULUBATLI HASAN CADDESİ",
+    "lat": 41.14190645,
+    "lon": 27.87357099
+  },
+  {
+    "pickPointId": 4434,
+    "storeId": 30000000009704,
+    "name": "ÇANAKKALE MACROCENTER",
+    "town": "Merkez",
+    "city": "Çanakkale",
+    "address": "BARBAROS MAHALLESİ ATATÜRK CADDESİ NO:350",
+    "lat": 40.11448,
+    "lon": 26.4078
+  },
+  {
+    "pickPointId": 813,
+    "storeId": 30000000006628,
+    "name": "ATAŞEHİR WYNHOUSE MACROCENTER",
+    "town": "Ataşehir",
+    "city": "İstanbul",
+    "address": "Barbaros Mah. Halk Cad. A Blok No:85",
+    "lat": 40.987908,
+    "lon": 29.103864
+  },
+  {
+    "pickPointId": 766,
+    "storeId": 30000000003889,
+    "name": "BRANDİUM ATAŞEHİR MACROCENTER",
+    "town": "Ataşehir",
+    "city": "İstanbul",
+    "address": "Brandium AVM -1. Bodrum Kat No: 1B 03-04",
+    "lat": 40.982377,
+    "lon": 29.13203
+  },
+  {
+    "pickPointId": 2199,
+    "storeId": 30000000007732,
+    "name": "WATERGARDEN İST MACROCENTER",
+    "town": "Ataşehir",
+    "city": "İstanbul",
+    "address": "Barbaros Mah. Şebboy Sok.",
+    "lat": 40.998124,
+    "lon": 29.100685
+  },
+  {
+    "pickPointId": 764,
+    "storeId": 30000000003795,
+    "name": "AQUA FLORYA MACROCENTER",
+    "town": "Bakırköy",
+    "city": "İstanbul",
+    "address": "Aqua Florya AVM Şenlikköy Mh Yeşilköy Halkalı Cd",
+    "lat": 40.966054,
+    "lon": 28.797585
+  },
+  {
+    "pickPointId": 3798,
+    "storeId": 30000000009547,
+    "name": "ATAKÖY SUİT MACROCENTER",
+    "town": "Bakırköy",
+    "city": "İstanbul",
+    "address": "Ataköy Mah.Açıkdeniz Sok.No:2/1 F",
+    "lat": 40.985016,
+    "lon": 28.847372
+  },
+  {
+    "pickPointId": 758,
+    "storeId": 30000000001813,
+    "name": "ACARKENT MACROCENTER",
+    "town": "Beykoz",
+    "city": "İstanbul",
+    "address": "Acarlar Mah. 9. Cadde NO:9 Acarkent",
+    "lat": 41.109486,
+    "lon": 29.121725
+  },
+  {
+    "pickPointId": 2405,
+    "storeId": 30000000008209,
+    "name": "METROHOME B.DÜZÜ MACROCENTER",
+    "town": "Beylikdüzü",
+    "city": "İstanbul",
+    "address": "Cumhuriyet Mah. Nadir Sok. No:1/14M/79",
+    "lat": 41.014489,
+    "lon": 28.63729
+  },
+  {
+    "pickPointId": 1892,
+    "storeId": 30000000007237,
+    "name": "GALATAPORT BEYOĞLU MACROCENTER",
+    "town": "Beyoğlu",
+    "city": "İstanbul",
+    "address": "Kılıçali Paşa Mah. Meclis-i Mebusan Cad. No:12",
+    "lat": 41.028166,
+    "lon": 28.985873
+  },
+  {
+    "pickPointId": 809,
+    "storeId": 30000000005308,
+    "name": "GRANDPERA MACROCENTER S",
+    "town": "Beyoğlu",
+    "city": "İstanbul",
+    "address": "Hüseyinağa Mah. İstiklal cad. No:56-58",
+    "lat": 41.03475542,
+    "lon": 28.97942348
+  },
+  {
+    "pickPointId": 2078,
+    "storeId": 30000000007457,
+    "name": "GÜMÜŞSUYU İSTANBUL MACROCENTER",
+    "town": "Beyoğlu",
+    "city": "İstanbul",
+    "address": "Gümüşsuyu Mah. İnönü Cd. No:53",
+    "lat": 41.036382,
+    "lon": 28.989692
+  },
+  {
+    "pickPointId": 748,
+    "storeId": 30000000001203,
+    "name": "AKMERKEZ MACROCENTER",
+    "town": "Beşiktaş",
+    "city": "İstanbul",
+    "address": "Akmerkez F Blok NO:325 Etiler Mah",
+    "lat": 41.076834,
+    "lon": 29.027593
+  },
+  {
+    "pickPointId": 808,
+    "storeId": 30000000004530,
+    "name": "BEBEK MACROCENTER S",
+    "town": "Beşiktaş",
+    "city": "İstanbul",
+    "address": "Bebek Mah. Cevdetpaşa Cad. Manolya Sok NO:126",
+    "lat": 41.0774,
+    "lon": 29.04293
+  },
+  {
+    "pickPointId": 1727,
+    "storeId": 30000000007099,
+    "name": "FULYA BEŞİKTAŞ MACROCENTER",
+    "town": "Beşiktaş",
+    "city": "İstanbul",
+    "address": "Dikilitaş Mah. Ayazmadere Cad No:10A",
+    "lat": 41.058267,
+    "lon": 29.002575
+  },
+  {
+    "pickPointId": 2111,
+    "storeId": 30000000007325,
+    "name": "GAYRETTEPE İST MACROCENTER",
+    "town": "Beşiktaş",
+    "city": "İstanbul",
+    "address": "Yıldızposta Cad. Vefabey Sok No:26 Gayrettepe",
+    "lat": 41.065718,
+    "lon": 29.007023
+  },
+  {
+    "pickPointId": 786,
+    "storeId": 30000000001206,
+    "name": "KURUÇEŞME MACROCENTER",
+    "town": "Beşiktaş",
+    "city": "İstanbul",
+    "address": "Muallim Naci Cad. Kuruçeşme Mah NO:170",
+    "lat": 41.058009,
+    "lon": 29.035605
+  },
+  {
+    "pickPointId": 794,
+    "storeId": 30000000004367,
+    "name": "NİSBETİYE ON MACROCENTER",
+    "town": "Beşiktaş",
+    "city": "İstanbul",
+    "address": "Nispetiye Mah. Aytar Cad.No:5-9D",
+    "lat": 41.074119,
+    "lon": 29.016947
+  },
+  {
+    "pickPointId": 806,
+    "storeId": 30000000004981,
+    "name": "ZORLU MACROCENTER",
+    "town": "Beşiktaş",
+    "city": "İstanbul",
+    "address": "Levazım Mah.Koru Sok NO:2 ZORLU CENTER AVM",
+    "lat": 41.0668147,
+    "lon": 29.01579031
+  },
+  {
+    "pickPointId": 762,
+    "storeId": 30000000001204,
+    "name": "ALKENT MACROCENTER",
+    "town": "Büyükçekmece",
+    "city": "İstanbul",
+    "address": "TEM 8 Hadımköy Gişeler Mevkii 2.KM Alkent Yeditepe",
+    "lat": 41.077639,
+    "lon": 28.623124
+  },
+  {
+    "pickPointId": 2393,
+    "storeId": 30000000007659,
+    "name": "BRANDVADİ İSTANBUL MACROCENTER",
+    "town": "Büyükçekmece",
+    "city": "İstanbul",
+    "address": "Karaağaç Mah. Dr. Hasan Akgün Cad. No:20/1",
+    "lat": 41.07996659,
+    "lon": 28.60096088
+  },
+  {
+    "pickPointId": 2867,
+    "storeId": 30000000008681,
+    "name": "DEMİRLİFE HADIMKÖY MACROCENTER",
+    "town": "Büyükçekmece",
+    "city": "İstanbul",
+    "address": "Çakmaklı Mah. Mehmet Yeşilgül Bulv. C1 Blok",
+    "lat": 41.06634,
+    "lon": 28.62057
+  },
+  {
+    "pickPointId": 2112,
+    "storeId": 30000000007592,
+    "name": "MARİNA 24 İSTANBUL MACROCENTER",
+    "town": "Büyükçekmece",
+    "city": "İstanbul",
+    "address": "Mimaroba Mah. Ecmel Sk. No:4",
+    "lat": 40.99820813,
+    "lon": 28.5455163
+  },
+  {
+    "pickPointId": 774,
+    "storeId": 30000000002966,
+    "name": "GÖKTÜRK MACROCENTER",
+    "town": "Eyüpsultan",
+    "city": "İstanbul",
+    "address": "Göktürk Mah. İstanbul Cad. No:38A",
+    "lat": 41.179706,
+    "lon": 28.883811
+  },
+  {
+    "pickPointId": 781,
+    "storeId": 30000000001205,
+    "name": "KEMER COUNTRY MACROCENTER",
+    "town": "Eyüpsultan",
+    "city": "İstanbul",
+    "address": "Göktürk Mah. Kemerburgaz Yolu Kemer Country",
+    "lat": 41.176266,
+    "lon": 28.900478
+  },
+  {
+    "pickPointId": 1672,
+    "storeId": 30000000006741,
+    "name": "CADDEBOSTAN PLAJYOLU MACROCENT",
+    "town": "Kadıköy",
+    "city": "İstanbul",
+    "address": "Caddebostan Mah. Kiraz Çıkmazı Sok. No: 2/6B",
+    "lat": 40.966844,
+    "lon": 29.06321
+  },
+  {
+    "pickPointId": 768,
+    "storeId": 30000000003535,
+    "name": "CEMİL TOPUZLU MACROCENTER",
+    "town": "Kadıköy",
+    "city": "İstanbul",
+    "address": "Fenerbahçe Mah. Opr. Cemil Topuzlu Cad. NO:6/2",
+    "lat": 40.973936,
+    "lon": 29.047317
+  },
+  {
+    "pickPointId": 2037,
+    "storeId": 30000000007056,
+    "name": "ERENKÖY KADIKÖY MACROCENTER",
+    "town": "Kadıköy",
+    "city": "İstanbul",
+    "address": "Caddebostan Mah, Nihat Kızıltan Sok. No:3",
+    "lat": 40.964113,
+    "lon": 29.073
+  },
+  {
+    "pickPointId": 2036,
+    "storeId": 30000000007288,
+    "name": "F.AYANOĞLU KADIKÖY MACROCENTER",
+    "town": "Kadıköy",
+    "city": "İstanbul",
+    "address": "Fenerbahçe Mah. Dr. Faruk Ayanoğlu Cad. No:26/c",
+    "lat": 40.97401,
+    "lon": 29.04562
+  },
+  {
+    "pickPointId": 784,
+    "storeId": 30000000006210,
+    "name": "KOZYATAĞI MACROCENTER",
+    "town": "Kadıköy",
+    "city": "İstanbul",
+    "address": "Atatürk Cad.Sahrayıcedit Mah.Dış Kapı No:44.",
+    "lat": 40.981267,
+    "lon": 29.083806
+  },
+  {
+    "pickPointId": 783,
+    "storeId": 30000000005744,
+    "name": "KOŞUYOLU MACROCENTER",
+    "town": "Kadıköy",
+    "city": "İstanbul",
+    "address": "Acıbadem Mah. Şeyh Galip Sok. No:2",
+    "lat": 41.006055,
+    "lon": 29.03788
+  },
+  {
+    "pickPointId": 858,
+    "storeId": 30000000006724,
+    "name": "SUADIYE İSTANBUL MACROCENTER",
+    "town": "Kadıköy",
+    "city": "İstanbul",
+    "address": "Bostancı Mah Bağdat Cad. No : 452 1A",
+    "lat": 40.957606,
+    "lon": 29.085886
+  },
+  {
+    "pickPointId": 778,
+    "storeId": 30000000005798,
+    "name": "İSTMARİNA MACROCENTER",
+    "town": "Kartal",
+    "city": "İstanbul",
+    "address": "Kordonboyu Mah. Ankara Cad No:147/6",
+    "lat": 40.884715,
+    "lon": 29.206105
+  },
+  {
+    "pickPointId": 3723,
+    "storeId": 30000000009348,
+    "name": "BRAND ATAKENT MACROCENTER",
+    "town": "Küçükçekmece",
+    "city": "İstanbul",
+    "address": "İNÖNÜ MH. HALKALI CAD. NO:210 /1B",
+    "lat": 41.02338,
+    "lon": 28.79146
+  },
+  {
+    "pickPointId": 2799,
+    "storeId": 30000000008907,
+    "name": "TEMA WORLD MACROCENTER",
+    "town": "Küçükçekmece",
+    "city": "İstanbul",
+    "address": "Atakent Mah. 243 Sk. No:28/1",
+    "lat": 41.052924,
+    "lon": 28.770476
+  },
+  {
+    "pickPointId": 787,
+    "storeId": 30000000005260,
+    "name": "KÜÇÜKYALI HILLTOWN MACROCENTER",
+    "town": "Maltepe",
+    "city": "İstanbul",
+    "address": "Aydınevler Mah.Siteler Yolu Sok. No:1-1A",
+    "lat": 40.952986,
+    "lon": 29.121693
+  },
+  {
+    "pickPointId": 2427,
+    "storeId": 30000000008394,
+    "name": "OYAK DRAGOS İST MACROCENTER",
+    "town": "Maltepe",
+    "city": "İstanbul",
+    "address": "Cevizli Mah.Tugay Yolu Cad. No:10/C",
+    "lat": 40.91704,
+    "lon": 29.158329
+  },
+  {
+    "pickPointId": 798,
+    "storeId": 30000000005703,
+    "name": "PIAZZA MALTEPE MACROCENTER",
+    "town": "Maltepe",
+    "city": "İstanbul",
+    "address": "Cevizli Mah Tugayyolu Cad. No:69C Zemin Kat",
+    "lat": 40.919211,
+    "lon": 29.168274
+  },
+  {
+    "pickPointId": 789,
+    "storeId": 30000000005898,
+    "name": "MASLAK 1453 MACROCENTER",
+    "town": "Sarıyer",
+    "city": "İstanbul",
+    "address": "Maslak Mah. Söğütözü Sok. No:20C10 D:122-123",
+    "lat": 41.118296,
+    "lon": 29.00993
+  },
+  {
+    "pickPointId": 790,
+    "storeId": 30000000005807,
+    "name": "MASLAK 42 MACROCENTER",
+    "town": "Sarıyer",
+    "city": "İstanbul",
+    "address": "Ahi Evran Cad. 42 Shop AVM No:6/185-198-199",
+    "lat": 41.112921,
+    "lon": 29.020118
+  },
+  {
+    "pickPointId": 797,
+    "storeId": 30000000004157,
+    "name": "ORMANADA MACROCENTER",
+    "town": "Sarıyer",
+    "city": "İstanbul",
+    "address": "Kilyos Cad. No:246 B.19/1 Uskumruköy Mah",
+    "lat": 41.212801,
+    "lon": 29.038586
+  },
+  {
+    "pickPointId": 2562,
+    "storeId": 30000000008412,
+    "name": "SAKLIVADİ İSTANBUL MACROCENTER",
+    "town": "Sarıyer",
+    "city": "İstanbul",
+    "address": "Ayazağa Mah.215 Cad.No:10D B2 Blok Zemin kat",
+    "lat": 41.102916,
+    "lon": 28.976563
+  },
+  {
+    "pickPointId": 800,
+    "storeId": 30000000005745,
+    "name": "VADİ İSTANBUL MACROCENTER",
+    "town": "Sarıyer",
+    "city": "İstanbul",
+    "address": "Ayazağa Mah.Cendere Cad.No:109/C",
+    "lat": 41.10462001,
+    "lon": 28.98583491
+  },
+  {
+    "pickPointId": 804,
+    "storeId": 30000000001208,
+    "name": "YENİKÖY MACROCENTER",
+    "town": "Sarıyer",
+    "city": "İstanbul",
+    "address": "Köybaşı Cad. NO:38 Yeniköy Mah",
+    "lat": 41.126807,
+    "lon": 29.069846
+  },
+  {
+    "pickPointId": 805,
+    "storeId": 30000000003687,
+    "name": "ZEKERİYAKÖY MACROCENTER",
+    "town": "Sarıyer",
+    "city": "İstanbul",
+    "address": "Garanti Koza Zekeriyaköy Evleri Vişne 2 Mah.",
+    "lat": 41.20888,
+    "lon": 29.022751
+  },
+  {
+    "pickPointId": 777,
+    "storeId": 30000000003160,
+    "name": "İSTİNYE PARK MACROCENTER",
+    "town": "Sarıyer",
+    "city": "İstanbul",
+    "address": "Pınar Mah. Katar Cad. No:11",
+    "lat": 41.110408,
+    "lon": 29.033089
+  },
+  {
+    "pickPointId": 4417,
+    "storeId": 30000000009321,
+    "name": "VESEN TUZLA İST MACROCENTER S",
+    "town": "Tuzla",
+    "city": "İstanbul",
+    "address": "Postane Mahallesi, Öğüt Sokak No:17Vesen",
+    "lat": 40.8153259,
+    "lon": 29.2759341
+  },
+  {
+    "pickPointId": 3915,
+    "storeId": 30000000009407,
+    "name": "YEDİMAVİ İSTANBUL MACROCENTER",
+    "town": "Zeytinburnu",
+    "city": "İstanbul",
+    "address": "Kazlıçeşme Mah. Kennedy  Caddesi 54/2 I Blok",
+    "lat": 40.98117216,
+    "lon": 28.90416112
+  },
+  {
+    "pickPointId": 2759,
+    "storeId": 30000000008676,
+    "name": "ORMANKÖY İSTANBUL MACROCENTER",
+    "town": "Çekmeköy",
+    "city": "İstanbul",
+    "address": "Güngören Mah. Tolgahan Sok. I Blok No:41/42/43/44",
+    "lat": 41.025,
+    "lon": 29.215333
+  },
+  {
+    "pickPointId": 2079,
+    "storeId": 30000000007509,
+    "name": "ÇEKMEKÖY KASABA MACROCENTER S",
+    "town": "Çekmeköy",
+    "city": "İstanbul",
+    "address": "Ömerli Mh.  Ayvalı Çiftliği Cd. No:13",
+    "lat": 41.090668,
+    "lon": 29.313203
+  },
+  {
+    "pickPointId": 770,
+    "storeId": 30000000006305,
+    "name": "ÇEKMEKÖY MACROCENTER",
+    "town": "Çekmeköy",
+    "city": "İstanbul",
+    "address": "Oğuzhan Cad. Merkez Mah. No:3",
+    "lat": 41.035042,
+    "lon": 29.174773
+  },
+  {
+    "pickPointId": 759,
+    "storeId": 30000000005191,
+    "name": "ACIBADEM İSTANBUL MACROCENTER",
+    "town": "Üsküdar",
+    "city": "İstanbul",
+    "address": "Acıbadem Mah.Acıbadem Cad. No:166/A",
+    "lat": 41.008767,
+    "lon": 29.050477
+  },
+  {
+    "pickPointId": 747,
+    "storeId": 30000000004151,
+    "name": "AKASYA İSTANBUL MACROCENTER",
+    "town": "Üsküdar",
+    "city": "İstanbul",
+    "address": "Acıbadem Mah.Çeçen Sok.No:120",
+    "lat": 41.001861,
+    "lon": 29.054675
+  },
+  {
+    "pickPointId": 2757,
+    "storeId": 30000000008432,
+    "name": "ŞİLE İSTANBUL MACROCENTER",
+    "town": "Şile",
+    "city": "İstanbul",
+    "address": "Ahmetli Mah.Üsküdar Cad.No:336/C",
+    "lat": 41.15795,
+    "lon": 29.589909
+  },
+  {
+    "pickPointId": 3797,
+    "storeId": 30000000009340,
+    "name": "A.KONUTLARI ŞİŞLİ MACROCENTER",
+    "town": "Şişli",
+    "city": "İstanbul",
+    "address": "GÜLBAHAR MAH. CEMAL SAHİR SK NO:22B",
+    "lat": 41.069457,
+    "lon": 29.00073
+  },
+  {
+    "pickPointId": 769,
+    "storeId": 30000000002295,
+    "name": "CITY`S NİŞANTAŞI MACROCENTER",
+    "town": "Şişli",
+    "city": "İstanbul",
+    "address": "City`s Nişantaşı AVM, Teşvikiye Cad. No:162 / B310",
+    "lat": 41.051114,
+    "lon": 28.992293
+  },
+  {
+    "pickPointId": 750,
+    "storeId": 30000000001457,
+    "name": "KANYON MACROCENTER",
+    "town": "Şişli",
+    "city": "İstanbul",
+    "address": "Büyükdere Cad. NO:185 2.Bodrum Kat NO:1 Kanyon AVM",
+    "lat": 41.07813,
+    "lon": 29.0117
+  },
+  {
+    "pickPointId": 795,
+    "storeId": 30000000001207,
+    "name": "NİŞANTAŞI MACROCENTER",
+    "town": "Şişli",
+    "city": "İstanbul",
+    "address": "Abdi İpekçi Cad. Ada Apt. NO:24-28 Nişantaşı",
+    "lat": 41.04919,
+    "lon": 28.99192
+  },
+  {
+    "pickPointId": 760,
+    "storeId": 30000000005277,
+    "name": "AGORA AVM İZMİR MACROCENTER",
+    "town": "Balçova",
+    "city": "İzmir",
+    "address": "Agora Avm Bahçelerarası Mah. Mithatpaşa Cad No:26",
+    "lat": 38.39509295,
+    "lon": 27.05435949
+  },
+  {
+    "pickPointId": 1680,
+    "storeId": 30000000006927,
+    "name": "İSTİNYEPARK İZMİR MACROCENTER",
+    "town": "Balçova",
+    "city": "İzmir",
+    "address": "Bahçelerarası Mh.Şehit Binbaşı Ali Resmi Tufan Cd.",
+    "lat": 38.39851007,
+    "lon": 27.06847226
+  },
+  {
+    "pickPointId": 1726,
+    "storeId": 30000000007050,
+    "name": "BORNOVA MACROCENTER",
+    "town": "Bornova",
+    "city": "İzmir",
+    "address": "EVKA 3 Mah. 113 Sok. No: 56A",
+    "lat": 38.471399,
+    "lon": 27.243909
+  },
+  {
+    "pickPointId": 3483,
+    "storeId": 30000000009461,
+    "name": "EVKA 3 BORNOVA İZM MACROCENTER",
+    "town": "Bornova",
+    "city": "İzmir",
+    "address": "Evka-3 Mahallesi Cengizhan Caddesi  No:12a",
+    "lat": 38.46556,
+    "lon": 27.24335
+  },
+  {
+    "pickPointId": 2865,
+    "storeId": 30000000008674,
+    "name": "LUSSO BORNOVA MACROCENTER",
+    "town": "Bornova",
+    "city": "İzmir",
+    "address": "Kazımdirik Mah 364/1 Sokak. NO:9A-9C",
+    "lat": 38.4468569,
+    "lon": 27.205571
+  },
+  {
+    "pickPointId": 2556,
+    "storeId": 30000000008655,
+    "name": "GÜZELBAHÇE SAHİL MACROCENTER",
+    "town": "Güzelbahçe",
+    "city": "İzmir",
+    "address": "Maltepe Mah. Mithatpaşa Cad No:15",
+    "lat": 38.38398422,
+    "lon": 26.92331647
+  },
+  {
+    "pickPointId": 776,
+    "storeId": 30000000006275,
+    "name": "GÜZELBAHÇE İZMİR MACROCENTER",
+    "town": "Güzelbahçe",
+    "city": "İzmir",
+    "address": "Kahramandere Mah.Ata Cad.No:52E",
+    "lat": 38.35832756,
+    "lon": 26.87457205
+  },
+  {
+    "pickPointId": 2428,
+    "storeId": 30000000008443,
+    "name": "KARABURUN İZMİR MACROCENTER S",
+    "town": "Karaburun",
+    "city": "İzmir",
+    "address": "İskele Mah. Kuyucak Cad. No:28A-28B",
+    "lat": 38.642866,
+    "lon": 26.514429
+  },
+  {
+    "pickPointId": 3419,
+    "storeId": 30000000009471,
+    "name": "BOSTANLI MACROCENTER",
+    "town": "Karşıyaka",
+    "city": "İzmir",
+    "address": "BOSTANLI MAH. CEMAL GÜRSEL CAD.",
+    "lat": 38.457655,
+    "lon": 27.098122
+  },
+  {
+    "pickPointId": 779,
+    "storeId": 30000000006185,
+    "name": "KARŞIYAKA İZMİR MACROCENTER",
+    "town": "Karşıyaka",
+    "city": "İzmir",
+    "address": "Yalı Mah. 6523 Sok.No:34/B",
+    "lat": 38.479114,
+    "lon": 27.082754
+  },
+  {
+    "pickPointId": 791,
+    "storeId": 30000000004864,
+    "name": "MAVİBAHÇE İZMİR MACROCENTER",
+    "town": "Karşıyaka",
+    "city": "İzmir",
+    "address": "Mavişehir Mah.Aziz Nesin Bulvarı No:26",
+    "lat": 38.47251618,
+    "lon": 27.0742645
+  },
+  {
+    "pickPointId": 763,
+    "storeId": 30000000004408,
+    "name": "ALSANCAK MACROCENTER",
+    "town": "Konak",
+    "city": "İzmir",
+    "address": "Kültür Mah.Talatpaşa Bulvarı  NO:11/B",
+    "lat": 38.43361092,
+    "lon": 27.13987112
+  },
+  {
+    "pickPointId": 2429,
+    "storeId": 30000000008335,
+    "name": "MAHALL BOMONTİ İZM MACROCENTER",
+    "town": "Konak",
+    "city": "İzmir",
+    "address": "Halkapınar Mah. Mürselpaşa Blv. Mahall Bomonti",
+    "lat": 38.434532,
+    "lon": 27.163043
+  },
+  {
+    "pickPointId": 2193,
+    "storeId": 30000000006967,
+    "name": "URLA İZMİR MACROCENTER",
+    "town": "Urla",
+    "city": "İzmir",
+    "address": "Altıntaş Mah. Ahmet Besim Uyal Cad. No: 48",
+    "lat": 38.31953,
+    "lon": 26.754393
+  },
+  {
+    "pickPointId": 761,
+    "storeId": 30000000003978,
+    "name": "ALAÇATI ÇEŞME MACROCENTER",
+    "town": "Çeşme",
+    "city": "İzmir",
+    "address": "Alaçatı Mahallesi 16033 Sokak No:4",
+    "lat": 38.289429,
+    "lon": 26.383291
+  },
+  {
+    "pickPointId": 3484,
+    "storeId": 30000000009370,
+    "name": "DALYAN ÇEŞME MACROCENTER",
+    "town": "Çeşme",
+    "city": "İzmir",
+    "address": "Dalyan Mh. 4005 Sk. No:1 Uavt",
+    "lat": 38.34017,
+    "lon": 26.30351
+  },
+  {
+    "pickPointId": 2577,
+    "storeId": 30000000008402,
+    "name": "MARİN ALAÇATI MACROCENTER S",
+    "town": "Çeşme",
+    "city": "İzmir",
+    "address": "Alaçatı Mah. 18000/1 Sok. No:4/18",
+    "lat": 38.253937,
+    "lon": 26.383341
+  },
+  {
+    "pickPointId": 1670,
+    "storeId": 30000000006791,
+    "name": "ÇEŞME ARDIÇ MACROCENTER",
+    "town": "Çeşme",
+    "city": "İzmir",
+    "address": "Ardıç Mah. 5438 Sokak No:3",
+    "lat": 38.31932,
+    "lon": 26.38729
+  },
+  {
+    "pickPointId": 1669,
+    "storeId": 30000000006792,
+    "name": "ÇEŞME MACROCENTER",
+    "town": "Çeşme",
+    "city": "İzmir",
+    "address": "Musalla Mah. 1060 Sokak No:2",
+    "lat": 38.315532,
+    "lon": 26.305668
+  },
+  {
+    "pickPointId": 3508,
+    "storeId": 30000000009442,
+    "name": "SASALI İZMİR MACROCENTER",
+    "town": "Çiğli",
+    "city": "İzmir",
+    "address": "Sasalı Merkez Mh. Gazi Çiçek Cad. No: 2 HE",
+    "lat": 38.492939,
+    "lon": 26.961024
+  }
+]

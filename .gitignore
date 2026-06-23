@@ -1,0 +1,14 @@
+# Secrets — never commit real credentials
+**/.env
+
+# Runtime state written by the bots
+**/data/
+
+# Go build artifacts
+*.exe
+/watcher
+
+# OS / editor cruft
+.DS_Store
+*.bak
+*.bak.*
