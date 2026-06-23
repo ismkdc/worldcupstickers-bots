@@ -1,4 +1,4 @@
-# worldcup-bots
+# worldcupstickers-bots
 
 A small collection of Telegram stock-watcher bots that track **Panini FIFA World Cup 2026** sticker products (albums and sticker packets) across several Turkish retailers. Each bot polls a retailer's API/website on an interval, detects when an item transitions from *out of stock* to *in stock*, and pushes a notification to a Telegram chat, group, or forum topic.
 
