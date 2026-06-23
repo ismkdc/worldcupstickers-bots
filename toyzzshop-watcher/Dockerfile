@@ -2,7 +2,7 @@
 FROM golang:latest AS build
 WORKDIR /src
 COPY main.go .
-RUN go mod init toyzz-watcher \
+RUN go mod init toyzzshop-watcher \
     && go get github.com/enetx/surf@latest github.com/enetx/g@latest \
     && go mod tidy \
     && CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /watcher .

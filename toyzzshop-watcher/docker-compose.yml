@@ -1,10 +1,10 @@
 services:
-  toyzz-watcher:
+  toyzzshop-watcher:
     build:
       context: .
       network: host
-    image: toyzz-watcher:latest
-    container_name: toyzz-watcher
+    image: toyzzshop-watcher:latest
+    container_name: toyzzshop-watcher
     restart: unless-stopped
     network_mode: host
     env_file:
